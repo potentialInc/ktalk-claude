@@ -1,0 +1,9 @@
+[submodule "base"]
+	path = base
+	url = https://github.com/potentialInc/claude-base.git
+[submodule "nestjs"]
+	path = nestjs
+	url = https://github.com/potentialInc/claude-nestjs.git
+[submodule "react"]
+	path = react
+	url = https://github.com/potentialInc/claude-react.git
